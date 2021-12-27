@@ -2,7 +2,8 @@
 
 .navbar {
     position: fixed;
-    top: 50%;
+    top: 25%;
+    left: 0;
     &__btn {
         background-color: $base-color;
         &--icon {
