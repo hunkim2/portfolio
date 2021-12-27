@@ -1,0 +1,8 @@
+@import "../../styles/_variables.scss";
+.home {
+    height: 100%;
+    display: flex;
+    color: $white;
+    flex-direction: column;
+    padding: 50px;
+}
